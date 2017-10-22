@@ -1,6 +1,4 @@
 from rllab.algos.dueling_dqn import DuelingDQN
-from rllab.envs.box2d.cartpole_env import CartpoleEnv
-from rllab.envs.normalized_env import normalize
 import gym
 
 env_name = 'Pendulum-v0'

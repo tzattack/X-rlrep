@@ -1,6 +1,4 @@
 from rllab.algos.prioritized_dqn import PrioritizedReplayDQN
-from rllab.envs.box2d.cartpole_env import CartpoleEnv
-from rllab.envs.normalized_env import normalize
 import gym
 
 env_name = 'MountainCar-v0'
