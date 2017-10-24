@@ -1,2 +1,1 @@
-# X-rlrep
-Reinforcement Learning Repository of AICSLab
+envs fold contains connections to Gym
