@@ -1,2 +1,1 @@
-# X-rlrep
-Reinforcement Learning Repository of AICSLab
+models fold contains different policy models
